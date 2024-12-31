@@ -1,0 +1,291 @@
+2024-12-31 13:49:51,057 :INFO : test_home :Test Started
+2024-12-31 13:49:51,057 :INFO : test_home :Rik
+2024-12-31 13:49:51,485 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 13:49:53,594 :INFO : test_home :Test Started
+2024-12-31 13:49:53,594 :INFO : test_home :Test Started
+2024-12-31 13:49:53,595 :INFO : test_home :Prit
+2024-12-31 13:49:53,595 :INFO : test_home :Prit
+2024-12-31 13:49:53,911 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 13:49:53,911 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 13:49:58,324 :INFO : test_e2e :Test started
+2024-12-31 13:49:59,935 :INFO : test_e2e :Now recive all the product list
+2024-12-31 13:49:59,962 :INFO : test_e2e :iphone X
+2024-12-31 13:49:59,979 :INFO : test_e2e :Samsung Note 8
+2024-12-31 13:49:59,997 :INFO : test_e2e :Nokia Edge
+2024-12-31 13:50:00,013 :INFO : test_e2e :Blackberry
+2024-12-31 13:50:00,210 :INFO : test_e2e :entering country name as ind
+2024-12-31 13:50:05,511 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 13:51:59,954 :INFO : test_home :Test Started
+2024-12-31 13:51:59,954 :INFO : test_home :Rik
+2024-12-31 13:52:00,375 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 13:52:02,478 :INFO : test_home :Test Started
+2024-12-31 13:52:02,478 :INFO : test_home :Test Started
+2024-12-31 13:52:02,478 :INFO : test_home :Prit
+2024-12-31 13:52:02,478 :INFO : test_home :Prit
+2024-12-31 13:52:02,798 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 13:52:02,798 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 13:52:07,079 :INFO : test_e2e :Test started
+2024-12-31 13:52:08,143 :INFO : test_e2e :Now recive all the product list
+2024-12-31 13:52:08,171 :INFO : test_e2e :iphone X
+2024-12-31 13:52:08,189 :INFO : test_e2e :Samsung Note 8
+2024-12-31 13:52:08,218 :INFO : test_e2e :Nokia Edge
+2024-12-31 13:52:08,238 :INFO : test_e2e :Blackberry
+2024-12-31 13:52:08,432 :INFO : test_e2e :entering country name as ind
+2024-12-31 13:52:13,829 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 14:47:10,736 :INFO : test_home :Test Started
+2024-12-31 14:47:10,737 :INFO : test_home :Rik
+2024-12-31 14:47:11,195 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:47:13,304 :INFO : test_home :Test Started
+2024-12-31 14:47:13,304 :INFO : test_home :Test Started
+2024-12-31 14:47:13,304 :INFO : test_home :Prit
+2024-12-31 14:47:13,304 :INFO : test_home :Prit
+2024-12-31 14:47:13,639 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:47:13,639 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:47:18,478 :INFO : test_e2e :Test started
+2024-12-31 14:47:19,190 :INFO : test_e2e :Now recive all the product list
+2024-12-31 14:47:19,215 :INFO : test_e2e :iphone X
+2024-12-31 14:47:19,261 :INFO : test_e2e :Samsung Note 8
+2024-12-31 14:47:19,291 :INFO : test_e2e :Nokia Edge
+2024-12-31 14:47:19,308 :INFO : test_e2e :Blackberry
+2024-12-31 14:47:19,495 :INFO : test_e2e :entering country name as ind
+2024-12-31 14:47:24,823 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 14:48:31,356 :INFO : test_e2e :Test started
+2024-12-31 14:48:32,832 :INFO : test_e2e :Now recive all the product list
+2024-12-31 14:48:32,858 :INFO : test_e2e :iphone X
+2024-12-31 14:48:32,878 :INFO : test_e2e :Samsung Note 8
+2024-12-31 14:48:32,896 :INFO : test_e2e :Nokia Edge
+2024-12-31 14:48:32,911 :INFO : test_e2e :Blackberry
+2024-12-31 14:48:33,117 :INFO : test_e2e :entering country name as ind
+2024-12-31 14:48:38,439 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 14:53:18,603 :INFO : test_home :Test Started
+2024-12-31 14:53:18,603 :INFO : test_home :Rik
+2024-12-31 14:53:19,064 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:53:21,179 :INFO : test_home :Test Started
+2024-12-31 14:53:21,179 :INFO : test_home :Test Started
+2024-12-31 14:53:21,179 :INFO : test_home :Prit
+2024-12-31 14:53:21,179 :INFO : test_home :Prit
+2024-12-31 14:53:21,489 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:53:21,489 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:53:25,799 :INFO : test_e2e :Test started
+2024-12-31 14:53:27,200 :INFO : test_e2e :Now recive all the product list
+2024-12-31 14:53:27,224 :INFO : test_e2e :iphone X
+2024-12-31 14:53:27,242 :INFO : test_e2e :Samsung Note 8
+2024-12-31 14:53:27,261 :INFO : test_e2e :Nokia Edge
+2024-12-31 14:53:27,279 :INFO : test_e2e :Blackberry
+2024-12-31 14:53:27,474 :INFO : test_e2e :entering country name as ind
+2024-12-31 14:53:32,804 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 14:57:22,991 :INFO : test_home :Test Started
+2024-12-31 14:57:22,991 :INFO : test_home :Rik
+2024-12-31 14:57:23,396 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:57:25,501 :INFO : test_home :Test Started
+2024-12-31 14:57:25,501 :INFO : test_home :Test Started
+2024-12-31 14:57:25,501 :INFO : test_home :Prit
+2024-12-31 14:57:25,501 :INFO : test_home :Prit
+2024-12-31 14:57:25,843 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:57:25,843 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 14:57:30,310 :INFO : test_e2e :Test started
+2024-12-31 14:57:31,413 :INFO : test_e2e :Now recive all the product list
+2024-12-31 14:57:31,437 :INFO : test_e2e :iphone X
+2024-12-31 14:57:31,460 :INFO : test_e2e :Samsung Note 8
+2024-12-31 14:57:31,477 :INFO : test_e2e :Nokia Edge
+2024-12-31 14:57:31,494 :INFO : test_e2e :Blackberry
+2024-12-31 14:57:31,683 :INFO : test_e2e :entering country name as ind
+2024-12-31 14:57:37,047 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 14:59:21,875 :INFO : test_e2e :Test started
+2024-12-31 14:59:22,917 :INFO : test_e2e :Now recive all the product list
+2024-12-31 14:59:22,942 :INFO : test_e2e :iphone X
+2024-12-31 14:59:22,963 :INFO : test_e2e :Samsung Note 8
+2024-12-31 14:59:22,981 :INFO : test_e2e :Nokia Edge
+2024-12-31 14:59:22,997 :INFO : test_e2e :Blackberry
+2024-12-31 14:59:23,182 :INFO : test_e2e :entering country name as ind
+2024-12-31 14:59:28,488 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 17:27:20,361 :INFO : test_home :Test Started
+2024-12-31 17:27:20,361 :INFO : test_home :Rik
+2024-12-31 17:27:20,878 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:27:22,992 :INFO : test_home :Test Started
+2024-12-31 17:27:22,992 :INFO : test_home :Test Started
+2024-12-31 17:27:22,992 :INFO : test_home :Prit
+2024-12-31 17:27:22,992 :INFO : test_home :Prit
+2024-12-31 17:27:23,300 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:27:23,300 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:27:27,678 :INFO : test_e2e :Test started
+2024-12-31 17:27:29,499 :INFO : test_e2e :Now recive all the product list
+2024-12-31 17:27:29,524 :INFO : test_e2e :iphone X
+2024-12-31 17:27:29,546 :INFO : test_e2e :Samsung Note 8
+2024-12-31 17:27:29,566 :INFO : test_e2e :Nokia Edge
+2024-12-31 17:27:29,585 :INFO : test_e2e :Blackberry
+2024-12-31 17:27:29,769 :INFO : test_e2e :entering country name as ind
+2024-12-31 17:27:35,136 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 17:36:04,656 :INFO : test_home :Test Started
+2024-12-31 17:36:04,656 :INFO : test_home :Rik
+2024-12-31 17:36:05,060 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:36:07,172 :INFO : test_home :Test Started
+2024-12-31 17:36:07,172 :INFO : test_home :Test Started
+2024-12-31 17:36:07,172 :INFO : test_home :Prit
+2024-12-31 17:36:07,172 :INFO : test_home :Prit
+2024-12-31 17:36:07,519 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:36:07,519 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:36:12,288 :INFO : test_e2e :Test started
+2024-12-31 17:36:13,619 :INFO : test_e2e :Now recive all the product list
+2024-12-31 17:36:13,645 :INFO : test_e2e :iphone X
+2024-12-31 17:36:13,665 :INFO : test_e2e :Samsung Note 8
+2024-12-31 17:36:13,681 :INFO : test_e2e :Nokia Edge
+2024-12-31 17:36:13,698 :INFO : test_e2e :Blackberry
+2024-12-31 17:36:13,892 :INFO : test_e2e :entering country name as ind
+2024-12-31 17:36:19,194 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 17:36:34,827 :INFO : test_home :Test Started
+2024-12-31 17:36:34,827 :INFO : test_home :Rik
+2024-12-31 17:36:35,239 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:36:37,355 :INFO : test_home :Test Started
+2024-12-31 17:36:37,355 :INFO : test_home :Test Started
+2024-12-31 17:36:37,355 :INFO : test_home :Prit
+2024-12-31 17:36:37,355 :INFO : test_home :Prit
+2024-12-31 17:36:37,674 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:36:37,674 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:36:42,295 :INFO : test_e2e :Test started
+2024-12-31 17:36:43,358 :INFO : test_e2e :Now recive all the product list
+2024-12-31 17:36:43,384 :INFO : test_e2e :iphone X
+2024-12-31 17:36:43,410 :INFO : test_e2e :Samsung Note 8
+2024-12-31 17:36:43,428 :INFO : test_e2e :Nokia Edge
+2024-12-31 17:36:43,446 :INFO : test_e2e :Blackberry
+2024-12-31 17:36:43,639 :INFO : test_e2e :entering country name as ind
+2024-12-31 17:36:48,943 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 17:38:00,374 :INFO : test_home :Test Started
+2024-12-31 17:38:00,374 :INFO : test_home :Rik
+2024-12-31 17:38:00,851 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:38:02,969 :INFO : test_home :Test Started
+2024-12-31 17:38:02,969 :INFO : test_home :Test Started
+2024-12-31 17:38:02,969 :INFO : test_home :Prit
+2024-12-31 17:38:02,969 :INFO : test_home :Prit
+2024-12-31 17:38:03,331 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:38:03,331 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 17:38:08,026 :INFO : test_e2e :Test started
+2024-12-31 17:38:09,151 :INFO : test_e2e :Now recive all the product list
+2024-12-31 17:38:09,175 :INFO : test_e2e :iphone X
+2024-12-31 17:38:09,196 :INFO : test_e2e :Samsung Note 8
+2024-12-31 17:38:09,213 :INFO : test_e2e :Nokia Edge
+2024-12-31 17:38:09,229 :INFO : test_e2e :Blackberry
+2024-12-31 17:38:09,428 :INFO : test_e2e :entering country name as ind
+2024-12-31 17:38:14,751 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 18:00:15,996 :INFO : test_home :Test Started
+2024-12-31 18:00:15,997 :INFO : test_home :Rik
+2024-12-31 18:00:16,486 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 18:00:18,597 :INFO : test_home :Test Started
+2024-12-31 18:00:18,597 :INFO : test_home :Test Started
+2024-12-31 18:00:18,597 :INFO : test_home :Prit
+2024-12-31 18:00:18,597 :INFO : test_home :Prit
+2024-12-31 18:00:18,989 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 18:00:18,989 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 18:00:23,731 :INFO : test_e2e :Test started
+2024-12-31 18:00:25,469 :INFO : test_e2e :Now recive all the product list
+2024-12-31 18:00:25,543 :INFO : test_e2e :iphone X
+2024-12-31 18:00:25,569 :INFO : test_e2e :Samsung Note 8
+2024-12-31 18:00:25,589 :INFO : test_e2e :Nokia Edge
+2024-12-31 18:00:25,619 :INFO : test_e2e :Blackberry
+2024-12-31 18:00:25,842 :INFO : test_e2e :entering country name as ind
+2024-12-31 18:00:31,177 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 18:03:49,005 :INFO : test_home :Test Started
+2024-12-31 18:03:49,005 :INFO : test_home :Rik
+2024-12-31 18:03:49,441 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 18:03:51,561 :INFO : test_home :Test Started
+2024-12-31 18:03:51,561 :INFO : test_home :Test Started
+2024-12-31 18:03:51,562 :INFO : test_home :Prit
+2024-12-31 18:03:51,562 :INFO : test_home :Prit
+2024-12-31 18:03:51,925 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 18:03:51,925 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 18:03:57,061 :INFO : test_e2e :Test started
+2024-12-31 18:03:58,198 :INFO : test_e2e :Now recive all the product list
+2024-12-31 18:03:58,226 :INFO : test_e2e :iphone X
+2024-12-31 18:03:58,249 :INFO : test_e2e :Samsung Note 8
+2024-12-31 18:03:58,272 :INFO : test_e2e :Nokia Edge
+2024-12-31 18:03:58,295 :INFO : test_e2e :Blackberry
+2024-12-31 18:03:58,521 :INFO : test_e2e :entering country name as ind
+2024-12-31 18:04:03,842 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 19:52:24,392 :INFO : test_home :Test Started
+2024-12-31 19:52:24,392 :INFO : test_home :Rik
+2024-12-31 19:52:24,824 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 19:52:26,922 :INFO : test_home :Test Started
+2024-12-31 19:52:26,922 :INFO : test_home :Test Started
+2024-12-31 19:52:26,922 :INFO : test_home :Prit
+2024-12-31 19:52:26,922 :INFO : test_home :Prit
+2024-12-31 19:52:27,296 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 19:52:27,296 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 19:52:31,720 :INFO : test_e2e :Test started
+2024-12-31 19:52:32,911 :INFO : test_e2e :Now recive all the product list
+2024-12-31 19:52:32,936 :INFO : test_e2e :iphone X
+2024-12-31 19:52:32,955 :INFO : test_e2e :Samsung Note 8
+2024-12-31 19:52:32,973 :INFO : test_e2e :Nokia Edge
+2024-12-31 19:52:32,990 :INFO : test_e2e :Blackberry
+2024-12-31 19:52:33,176 :INFO : test_e2e :entering country name as ind
+2024-12-31 19:52:38,540 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-31 20:07:25,124 :INFO : test_home :Test Started
+2024-12-31 20:07:25,124 :INFO : test_home :Rik
+2024-12-31 20:07:25,598 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 20:07:27,708 :INFO : test_home :Test Started
+2024-12-31 20:07:27,708 :INFO : test_home :Test Started
+2024-12-31 20:07:27,708 :INFO : test_home :Prit
+2024-12-31 20:07:27,708 :INFO : test_home :Prit
+2024-12-31 20:07:28,043 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 20:07:28,043 :INFO : test_home :message recived ×
+Success! The Form has been submitted successfully!.
+2024-12-31 20:07:32,687 :INFO : test_e2e :Test started
+2024-12-31 20:07:33,748 :INFO : test_e2e :Now recive all the product list
+2024-12-31 20:07:33,777 :INFO : test_e2e :iphone X
+2024-12-31 20:07:33,797 :INFO : test_e2e :Samsung Note 8
+2024-12-31 20:07:33,812 :INFO : test_e2e :Nokia Edge
+2024-12-31 20:07:33,836 :INFO : test_e2e :Blackberry
+2024-12-31 20:07:34,040 :INFO : test_e2e :entering country name as ind
+2024-12-31 20:07:39,330 :INFO : test_e2e :text message recieved ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
